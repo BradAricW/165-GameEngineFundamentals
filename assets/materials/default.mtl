@@ -1,0 +1,19 @@
+newmtl DefaultMaterial
+# shininess
+Ns 32
+# ambient
+Ka 1.000000 1.000000 1.000000
+# diffuse
+Kd 0.640000 0.640000 0.640000
+# specular
+Ks 0.500000 0.500000 0.500000
+# emissive
+Ke 0.000000 0.000000 0.000000
+# refraction
+Ni 1.000000
+# fully opaque
+d 1.000000
+# illumination model
+illum 2
+# texture
+map_Kd default.png
